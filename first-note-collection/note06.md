@@ -6,7 +6,8 @@ Collections Keep Research Organized
 
 # Quotation
 
-“How to create collections (folders)”
+“Collections are basically folders where you can add specific
+references into.”
 
 # Citation
 
@@ -16,7 +17,7 @@ https://www.youtube.com/watch?v=JG7Uq_JFDzE.
 
 # Point Locator
 
-06:01
+06:07
 
 # Commentary
 

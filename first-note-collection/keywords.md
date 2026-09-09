@@ -20,11 +20,12 @@
 | organization            | 2         |
 | citations               | 1         |
 | writing                 | 1         |
-| Git                     | 3         |
+| Git                     | 2         |
 | GitHub                  | 1         |
-| version control         | 3         |
-| code                    | 1         |
+| repositories            | 2         |
+| collaboration           | 2         |
+| open source             | 1         |
 | commits                 | 1         |
-| repositories            | 1         |
+| version control         | 1         |
+| code changes            | 1         |
 | branches                | 1         |
-| collaboration           | 1         |

@@ -6,7 +6,8 @@ Zotero Connects Research and Writing
 
 # Quotation
 
-“How to use Zotero in Microsoft Word”
+“To add a citation from your Zotero library, click on an area
+in your Word document where you want to add the citation.”
 
 # Citation
 
@@ -16,7 +17,7 @@ https://www.youtube.com/watch?v=JG7Uq_JFDzE.
 
 # Point Locator
 
-08:32
+09:07
 
 # Commentary
 

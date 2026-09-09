@@ -2,11 +2,13 @@ Vim 09 - Git Commits
 
 # Title
 
-Commits Create a History of Changes
+Commits Act as Save Points
 
 # Quotation
 
-“Basic Git workflow: create commit, publish repo”
+“A commit is the ‘save point’ that you can create during
+development that includes a set of code changes that you
+want to track.”
 
 # Citation
 
@@ -16,18 +18,18 @@ https://www.youtube.com/watch?v=8Dd7KRpKeaE.
 
 # Point Locator
 
-04:12
+06:50-06:53
 
 # Commentary
 
-This section shows why commits are an important part of
-working with Git. Instead of making changes without keeping
-a record, a programmer can commit changes as the project
-develops. This creates a history that makes it easier to see
-how a project has changed over time. I think this is useful
-for class projects because it creates clear points showing
-when important changes were made.
+This quote helped me understand commits because it compares
+them to save points. A commit records a set of changes that
+a programmer wants Git to track during development. This
+makes it possible to keep a history of how a project changes
+instead of only having the newest version. I think commits
+are especially useful for class projects because they make
+it easier to keep track of important changes as I work.
 
 # Keywords
 
-Git, commits, repositories, version control
+Git, commits, version control, code changes
