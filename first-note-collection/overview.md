@@ -5,8 +5,7 @@ students with learning, research, and organization. One of the main
 questions I had while creating these notes was how technology can make
 schoolwork easier without replacing the work that helps us actually
 learn. I also wanted to look at how different tools can help with
-different parts of academic work. The three sources I used focused on
-artificial intelligence, Zotero, and Git/GitHub.
+different parts of academic work. The three sources I used focused on artificial intelligence, Zotero, and Git/GitHub. When reviewing the sources, I looked for passages that explained an important idea or made me question how I use technology. For the videos, timestamps were especially useful because they allowed me to return to specific explanations and verify my quotations.
 
 Ethan Mollick's article was useful because it made me think more about
 when AI should and should not be used. At first, I was mainly thinking
@@ -44,11 +43,4 @@ tools. At the same time, these sources showed me that technology can be
 very useful when the person using it understands its purpose and
 limitations.
 
-I used ChatGPT while creating this note collection. I used it to help
-organize the structure of my notes, identify connections between the
-three assigned sources, and help draft and revise some of my
-commentary. I also used it to help format the notes consistently. I
-checked the assigned sources and citations rather than treating the AI
-responses as the original source material. I think using AI in this way
-was useful because it helped with organization and revision while the
-assigned readings and videos remained the sources for the collection.
+I used ChatGPT while creating this note collection. I used ChatGPT to help organize the structure of my notes, draft and revise commentary, identify connections between the three assigned sources, and format the collection consistently. I verified quotations against the assigned sources, including checking video quotations and timestamps myself. I did not treat AI responses as original source material. I think using AI in this way was useful because it helped with organization and revision while the assigned readings and videos remained the actual sources for my research.
