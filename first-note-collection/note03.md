@@ -6,7 +6,7 @@ Struggling Can Be Part of Learning
 
 # Quotation
 
-“When the effort is the point.”
+“In many areas, people need to struggle with a topic to succeed.”
 
 # Citation
 

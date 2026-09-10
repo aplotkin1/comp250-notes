@@ -6,7 +6,9 @@ AI Can Produce Believable Mistakes
 
 # Quotation
 
-“Hallucinations are therefore very hard to spot.”
+“The problem with AI errors, the infamous hallucinations, is
+that, because of how LLMs work, the errors are going to be
+very plausible.”
 
 # Citation
 
@@ -20,13 +22,14 @@ https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to.
 
 # Commentary
 
-This quote is important because AI can give information that
-sounds correct even when it is wrong. This can become a
+This quote is important because AI can produce incorrect
+information that still sounds believable. This can become a
 problem for students who trust an AI response without
 checking another source. A believable mistake may be harder
-to notice than an obvious mistake. This shows why students
-should verify important information instead of automatically
-trusting what AI generates.
+to notice because the answer can sound confident and
+reasonable. This shows why students should verify important
+information instead of automatically trusting what AI
+generates.
 
 # Keywords
 

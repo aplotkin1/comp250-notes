@@ -6,7 +6,7 @@ AI Can Provide a Second Opinion
 
 # Quotation
 
-“Work where you want a second opinion.”
+“Give an AI access to the data and see if reaches the same conclusion.”
 
 # Citation
 
@@ -20,13 +20,12 @@ https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to.
 
 # Commentary
 
-This quote gives an example of how AI can be useful without
-replacing human judgment. A person can first reach their own
-conclusion and then use AI to see another possible answer.
-The two answers can then be compared instead of simply
-accepting the AI response. I think this is a more responsible
-way of using AI because the person remains involved in the
-thinking and decision-making process.
+This quote shows how AI can be useful without completely replacing
+human judgment. A person can first reach their own conclusion and then
+give the information to AI to see if it reaches a similar result.
+Comparing the two answers could help someone notice something they may
+have missed. I think this is a more responsible way of using AI because
+the person remains involved in the thinking and decision-making process.
 
 # Keywords
 
