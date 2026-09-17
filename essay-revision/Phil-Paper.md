@@ -1,3 +1,8 @@
+---
+title: Physicalism and Dualism
+author: Ashley Plotkin
+---
+
 Ashley Plotkin
 
 Phil 130
