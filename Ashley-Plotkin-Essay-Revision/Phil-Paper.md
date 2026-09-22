@@ -1,27 +1,80 @@
 ---
 title: Physicalism and Dualism
 author: Ashley Plotkin
+class: Phil 130
+professor: Hakkenberg
+date: 5 November 2023
 ---
 
-Ashley Plotkin
+Does the soul and the body perish or does just the body perish?
+If the soul and the body are both material, it is true that they perish. 
+It is incorrect to think that they die because there is an immaterial soul and material body meaning that only one would die: the body.
 
-Phil 130
+Plato believes that death is a good thing for a philosopher. 
+When the body is out of the way the soul can be free. 
+Wisdom is the truth which you can only have with the soul. 
+The body only gives you fear and confusion. 
+He believes in the Forms, which is like heaven because it is the afterlife that goes on for eternity (explained in the article, *Philosophy Now, "Plato: A Theory of Forms")*. 
+Your soul is very much alive, but your body is dead while in the Forms. 
+He also talks about how life is an endless cycle meaning you\'re not born yet, you are born, and then you go to the Forms. 
+Your time in the first world is your sense experience, while your time in the second world would be you using thought only. 
+All of these beliefs go along with dualism which is the belief that the mind and body are separate. 
+Plato talks about these beliefs in Phaedo*.* 
+One important quote in his *Phaedo* is "There is the explanation that is put in the language of the mysteries, that we men are in a kind of prison, and that one must not free oneself or run away"(*Phaedo* 54:62b). 
+He says this when he talks about the Forms. 
+We either choose to be free through the Forms or run away with it.\
+The problem with Plato's beliefs is that you need the mind in order to use the body. 
+The body relies heavily on the mind in order to do things like touch, move, and see. 
+If you do not have a mind you can not use your body. 
+That makes it seem like they can not be distinct from each other because if they rely on each other then they die together. 
+Another issue with his belief is that the mind should not be categorized the same as the body. 
+They are completely different from each other and in no way connected to one another. 
+According to Gilbert Ryle, there is a private history and public history. 
+He attacks Descartes' belief specifically on that matter. 
+The mind has a private history and the body has a public history. 
+He also talks about the official doctrine which is that everyone has a mind and body. 
+It can not properly explain how the mind and body truly interact with each other, so it is wrong to not fully make them distinct. 
+Descartes states "The difference between the physical and mental were thus represented as differences inside the common framework of the categories of 'thing,' 'stuff,' 'attribute,' 'state,' 'process,' 'change,' 'cause,' and 'effect.'"(*Descartes Myth* 1). 
+This statement proves the fact that dualism has a lot of errors. 
+There are so many differences between the mind and body because they are in separate categories.
 
-Mr. [Hakkenberg]{.mark}
+Epicurus explains in his *Letter to Herodotus* that we should not worry so much about death. 
+When we die the mind and body both die because we are all scientifically just a bunch of atoms. 
+He has explained how people who believe there is an afterlife have major anxiety for when they die because it makes them scared of not pleasing the higher power and of total annihilation. 
+Even our soul is just atoms that cause us to think. 
+We live in one world where everything is a sense experience. 
+The universe is just bodies and void. 
+The only way we get knowledge is through observation. 
+We mentally comprehend something and transform it into an image or word. 
+His beliefs go along with physicalism which is the belief that the mind and body are not separate and that the soul is a part of the body. 
+An important quote Epicurus states is "And besides we must keep all our investigations in accord with our sensations, and in particular with the immediate apprehensions whether of the mind or of any one of the instruments of judgment, and likewise in accord with the feelings existing in us, in order that we may have indications whereby we may judge both the problem of sense-perception and the unseen"(*Letter to Herodotus* 1:2). 
+In this quote he mentions the sense perception. 
+We rely so heavily on observation through sense experience mentioned earlier.
 
-[5 November 2023]{.mark}
+The problem with Epicurus's beliefs is that your mind can live without your body. 
+Your body is not essential for you to think and live. 
+People who can not walk just can not use their body. 
+If someone was in a coma then they can not think or function as a person at all. 
+So you need your mind in order to use your body. 
+Without your mind you can not use your body and you can not survive. 
+Another problem with his beliefs is that he thinks that God would be evil if He wants us to become anxious and afraid of death. 
+Those who believe in God would say that God wants us to live a full and happy life. 
+He does not want us to think about death, but life. 
+We need to live life the best we can in order for us to not have to feel this anxiety and fear for death.
 
-Physicalism and Dualism
+I believe the soul is distinct from the body which is more towards Plato's and Ryle's view on body and soul. 
+The body dies while the soul lives since it is separate. 
+I believe this dualist approach because I can not see us just dying and that is it. 
+I think when we die there is an afterlife that we live in for eternity. 
+The only way we can get there is through how we act on Earth. 
+When we use our mind over our body we become better at being good enough for the afterlife. 
+Our mind helps us think and make decisions while our body needs things like food, water, and pleasure. 
+The body gets in the way of the soul because it makes it difficult for us to focus on things good for it. 
+Things like meditation and contemplation are difficult when the body is making us busy with bodily needs. 
+Without our body we can do that without an issue. 
+Therefore, I think dualism is what I believe is true.
 
-Does the soul and the body perish or does just the body perish? If the soul and the body are both material, it is true that they perish. It is incorrect to think that they die because there is an immaterial soul and material body meaning that only one would die: the body.
-
-Plato believes that death is a good thing for a philosopher. When the body is out of the way the soul can be free. Wisdom is the truth which you can only have with the soul. The body only gives you fear and confusion. He believes in the Forms, which is like heaven because it is the afterlife that goes on for eternity (explained in the article, *Philosophy Now, "Plato: A Theory of Forms")*. Your soul is very much alive, but your body is dead while in the Forms. He also talks about how life is an endless cycle meaning you\'re not born yet, you are born, and then you go to the Forms. Your time in the first world is your sense experience, while your time in the second world would be you using thought only. All of these beliefs go along with dualism which is the belief that the mind and body are separate. Plato talks about these beliefs in Phaedo*.* One important quote in his *Phaedo* is "There is the explanation that is put in the language of the mysteries, that we men are in a kind of prison, and that one must not free oneself or run away"(*Phaedo* 54:62b). He says this when he talks about the Forms. We either choose to be free through the Forms or run away with it.\
-The problem with Plato's beliefs is that you need the mind in order to use the body. The body relies heavily on the mind in order to do things like touch, move, and see. If you do not have a mind you can not use your body. That makes it seem like they can not be distinct from each other because if they rely on each other then they die together. Another issue with his belief is that the mind should not be categorized the same as the body. They are completely different from each other and in no way connected to one another. According to Gilbert Ryle, there is a private history and public history. He attacks Descartes' belief specifically on that matter. The mind has a private history and the body has a public history. He also talks about the official doctrine which is that everyone has a mind and body. It can not properly explain how the mind and body truly interact with each other, so it is wrong to not fully make them distinct. Descartes states "The difference between the physical and mental were thus represented as differences inside the common framework of the categories of 'thing,' 'stuff,' 'attribute,' 'state,' 'process,' 'change,' 'cause,' and 'effect.'"(*Descartes Myth* 1). This statement proves the fact that dualism has a lot of errors. There are so many differences between the mind and body because they are in separate categories.
-
-Epicurus explains in his *Letter to Herodotus* that we should not worry so much about death. When we die the mind and body both die because we are all scientifically just a bunch of atoms. He has explained how people who believe there is an afterlife have major anxiety for when they die because it makes them scared of not pleasing the higher power and of total annihilation. Even our soul is just atoms that cause us to think. We live in one world where everything is a sense experience. The universe is just bodies and void. The only way we get knowledge is through observation. We mentally comprehend something and transform it into an image or word. His beliefs go along with physicalism which is the belief that the mind and body are not separate and that the soul is a part of the body. An important quote Epicurus states is "And besides we must keep all our investigations in accord with our sensations, and in particular with the immediate apprehensions whether of the mind or of any one of the instruments of judgment, and likewise in accord with the feelings existing in us, in order that we may have indications whereby we may judge both the problem of sense-perception and the unseen"(*Letter to Herodotus* 1:2). In this quote he mentions the sense perception. We rely so heavily on observation through sense experience mentioned earlier.
-
-The problem with Epicurus's beliefs is that your mind can live without your body. Your body is not essential for you to think and live. People who can not walk just can not use their body. If someone was in a coma then they can not think or function as a person at all. So you need your mind in order to use your body. Without your mind you can not use your body and you can not survive. Another problem with his beliefs is that he thinks that God would be evil if He wants us to become anxious and afraid of death. Those who believe in God would say that God wants us to live a full and happy life. He does not want us to think about death, but life. We need to live life the best we can in order for us to not have to feel this anxiety and fear for death.
-
-I believe the soul is distinct from the body which is more towards Plato's and Ryle's view on body and soul. The body dies while the soul lives since it is separate. I believe this dualist approach because I can not see us just dying and that is it. I think when we die there is an afterlife that we live in for eternity. The only way we can get there is through how we act on Earth. When we use our mind over our body we become better at being good enough for the afterlife. Our mind helps us think and make decisions while our body needs things like food, water, and pleasure. The body gets in the way of the soul because it makes it difficult for us to focus on things good for it. Things like meditation and contemplation are difficult when the body is making us busy with bodily needs. Without our body we can do that without an issue. Therefore, I think dualism is what I believe is true.
-
-In conclusion, dualism and physicalism have different aspects of death. Dualists believe there is an immaterial soul and material body, so the body dies. Physicalists believe there is a material body and soul, so they both die. I believe that the body only dies and that there is an after life.
+In conclusion, dualism and physicalism have different aspects of death. 
+Dualists believe there is an immaterial soul and material body, so the body dies. 
+Physicalists believe there is a material body and soul, so they both die. 
+I believe that the body only dies and that there is an after life.
