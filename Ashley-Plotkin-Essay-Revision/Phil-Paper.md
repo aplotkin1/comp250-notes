@@ -6,9 +6,13 @@ professor: Hakkenberg
 date: 5 November 2023
 ---
 
+# Introduction
+
 Does the soul and the body perish or does just the body perish?
 If the soul and the body are both material, it is true that they perish. 
 It is incorrect to think that they die because there is an immaterial soul and material body meaning that only one would die: the body.
+
+#Body Paragraphs
 
 Plato believes that death is a good thing for a philosopher. 
 When the body is out of the way the soul can be free. 
@@ -74,7 +78,13 @@ Things like meditation and contemplation are difficult when the body is making u
 Without our body we can do that without an issue. 
 Therefore, I think dualism is what I believe is true.
 
+# Conclusion
+
 In conclusion, dualism and physicalism have different aspects of death. 
 Dualists believe there is an immaterial soul and material body, so the body dies. 
 Physicalists believe there is a material body and soul, so they both die. 
 I believe that the body only dies and that there is an after life.
+
+# Bibliography
+
+Bibliograpghy will be here.
