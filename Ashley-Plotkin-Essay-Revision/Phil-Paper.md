@@ -12,7 +12,7 @@ Does the soul and the body perish or does just the body perish?
 If the soul and the body are both material, it is true that they perish. 
 It is incorrect to think that they die because there is an immaterial soul and material body meaning that only one would die: the body.
 
-#Body Paragraphs
+# Body Paragraphs
 
 Plato believes that death is a good thing for a philosopher. 
 When the body is out of the way the soul can be free. 
