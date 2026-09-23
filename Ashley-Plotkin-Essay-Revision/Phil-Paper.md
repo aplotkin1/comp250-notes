@@ -27,6 +27,7 @@ Plato talks about these beliefs in Phaedo*.*
 One important quote in his *Phaedo* is "There is the explanation that is put in the language of the mysteries, that we men are in a kind of prison, and that one must not free oneself or run away"(*Phaedo* 54:62b). 
 He says this when he talks about the Forms. 
 We either choose to be free through the Forms or run away with it.\
+
 The problem with Plato's beliefs is that you need the mind in order to use the body. 
 The body relies heavily on the mind in order to do things like touch, move, and see. 
 If you do not have a mind you can not use your body. 
