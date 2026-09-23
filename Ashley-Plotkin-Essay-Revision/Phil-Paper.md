@@ -4,6 +4,10 @@ author: Ashley Plotkin
 class: Phil 130
 professor: Hakkenberg
 date: 5 November 2023
+abstract: |
+  This essay examines the differences between physicalism and dualism and how each view understands death.
+  It discusses Plato's views on the separation of the soul and body and considers arguments about the relationship between the mind and body.
+  I argue that the soul is distinct from the body and that the soul continues to exist after the body dies.
 ---
 
 # Introduction
@@ -26,7 +30,7 @@ All of these beliefs go along with dualism which is the belief that the mind and
 Plato talks about these beliefs in Phaedo*.* 
 One important quote in his *Phaedo* is "There is the explanation that is put in the language of the mysteries, that we men are in a kind of prison, and that one must not free oneself or run away"(*Phaedo* 54:62b). 
 He says this when he talks about the Forms. 
-We either choose to be free through the Forms or run away with it.\
+We either choose to be free through the Forms or run away with it.
 
 The problem with Plato's beliefs is that you need the mind in order to use the body. 
 The body relies heavily on the mind in order to do things like touch, move, and see. 
@@ -67,7 +71,7 @@ Those who believe in God would say that God wants us to live a full and happy li
 He does not want us to think about death, but life. 
 We need to live life the best we can in order for us to not have to feel this anxiety and fear for death.
 
-I believe the soul is distinct from the body which is more towards Plato's and Ryle's view on body and soul. 
+I believe the soul is distinct from the body which is more towards Plato's and Ryle's view on body and soul.<!--My claim--> 
 The body dies while the soul lives since it is separate. 
 I believe this dualist approach because I can not see us just dying and that is it. 
 I think when we die there is an afterlife that we live in for eternity. 
