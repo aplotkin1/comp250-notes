@@ -4,6 +4,7 @@ author: Ashley Plotkin
 class: Phil 130
 professor: Hakkenberg
 date: 5 November 2023
+bibliography: COMP-250-Essay-Citations.json
 abstract: |
   This essay examines the differences between physicalism and dualism and how each view understands death.
   It discusses Plato's views on the separation of the soul and body and considers arguments about the relationship between the mind and body.
@@ -22,13 +23,13 @@ Plato believes that death is a good thing for a philosopher.
 When the body is out of the way the soul can be free. 
 Wisdom is the truth which you can only have with the soul. 
 The body only gives you fear and confusion. 
-He believes in the Forms, which is like heaven because it is the afterlife that goes on for eternity (explained in the article, *Philosophy Now, "Plato: A Theory of Forms")*. 
+He believes in the Forms, which is like heaven because it is the afterlife that goes on for eternity [@PlatoTheoryForms]. 
 Your soul is very much alive, but your body is dead while in the Forms. 
 He also talks about how life is an endless cycle meaning you\'re not born yet, you are born, and then you go to the Forms. 
 Your time in the first world is your sense experience, while your time in the second world would be you using thought only. 
 All of these beliefs go along with dualism which is the belief that the mind and body are separate. 
 Plato talks about these beliefs in Phaedo*.* 
-One important quote in his *Phaedo* is "There is the explanation that is put in the language of the mysteries, that we men are in a kind of prison, and that one must not free oneself or run away"(*Phaedo* 54:62b). 
+One important quote in his *Phaedo* is "There is the explanation that is put in the language of the mysteries, that we men are in a kind of prison, and that one must not free oneself or run away" [@PlatoPhaedoSection]. 
 He says this when he talks about the Forms. 
 We either choose to be free through the Forms or run away with it.
 
@@ -43,7 +44,7 @@ He attacks Descartes' belief specifically on that matter.
 The mind has a private history and the body has a public history. 
 He also talks about the official doctrine which is that everyone has a mind and body. 
 It can not properly explain how the mind and body truly interact with each other, so it is wrong to not fully make them distinct. 
-Descartes states "The difference between the physical and mental were thus represented as differences inside the common framework of the categories of 'thing,' 'stuff,' 'attribute,' 'state,' 'process,' 'change,' 'cause,' and 'effect.'"(*Descartes Myth* 1). 
+Ryle states "The difference between the physical and mental were thus represented as differences inside the common framework of the categories of 'thing,' 'stuff,' 'attribute,' 'state,' 'process,' 'change,' 'cause,' and 'effect.'" [@MicrosoftWordGilbert]. 
 This statement proves the fact that dualism has a lot of errors. 
 There are so many differences between the mind and body because they are in separate categories.
 
@@ -56,7 +57,7 @@ The universe is just bodies and void.
 The only way we get knowledge is through observation. 
 We mentally comprehend something and transform it into an image or word. 
 His beliefs go along with physicalism which is the belief that the mind and body are not separate and that the soul is a part of the body. 
-An important quote Epicurus states is "And besides we must keep all our investigations in accord with our sensations, and in particular with the immediate apprehensions whether of the mind or of any one of the instruments of judgment, and likewise in accord with the feelings existing in us, in order that we may have indications whereby we may judge both the problem of sense-perception and the unseen"(*Letter to Herodotus* 1:2). 
+An important quote Epicurus states is "And besides we must keep all our investigations in accord with our sensations, and in particular with the immediate apprehensions whether of the mind or of any one of the instruments of judgment, and likewise in accord with the feelings existing in us, in order that we may have indications whereby we may judge both the problem of sense-perception and the unseen" [@EpicurusLetterHerodotus]. 
 In this quote he mentions the sense perception. 
 We rely so heavily on observation through sense experience mentioned earlier.
 
@@ -92,4 +93,3 @@ I believe that the body only dies and that there is an after life.
 
 # Bibliography
 
-Bibliograpghy will be here.
