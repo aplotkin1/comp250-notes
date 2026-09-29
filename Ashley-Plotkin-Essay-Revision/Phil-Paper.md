@@ -63,8 +63,8 @@ Epicurus emphasizes the importance of sense perception when he states, "And besi
 This quote shows that Epicurus believes knowledge should come from our senses and observations of the physical world. 
 His focus on sense perception supports his physicalist view because he explains reality through what can be physically observed rather than through an immaterial soul.
 
-One problem I see with Epicurus’s view is his claim that the mind cannot exist independently of the body. 
-I believe the soul can continue to exist without the physical body.  
+One problem I see with Epicurus’s view is his claim that the mind cannot exist independently of the body.
+I believe the soul can continue to exist without the physical body.
 The mind therefore plays an important role in how a person experiences and uses the body. 
 I also disagree with Epicurus’s discussion of fear because I believe religious views can offer a different understanding of death and the afterlife. 
 From this perspective, belief in an afterlife does not necessarily require people to fear death.
