@@ -22,29 +22,29 @@ I argue that the soul is distinct from the body and continues to exist after the
 
 Plato believes that death is a good thing for a philosopher. 
 When the body is out of the way the soul can be free. 
-Wisdom is the truth which you can only have with the soul. 
-The body only gives you fear and confusion. 
-He believes in the Forms, which is like heaven because it is the afterlife that goes on for eternity [@PlatoTheoryForms]. 
+Plato connects wisdom and truth with the soul rather than the physical body. 
+According to Plato, the body can distract the soul with fear and confusion.
+He believes in the Forms, an eternal realm that exists beyond the physical world [@PlatoTheoryForms]. 
 Your soul is very much alive, but your body is dead while in the Forms. 
-He also talks about how life is an endless cycle meaning you\'re not born yet, you are born, and then you go to the Forms. 
-Your time in the first world is your sense experience, while your time in the second world would be you using thought only. 
-All of these beliefs go along with dualism which is the belief that the mind and body are separate. 
+He also describes existence as a cycle in which the soul exists before birth, lives within the body, and eventually returns to the Forms. 
+The physical world is experienced through the senses, while the Forms are understood through thought. 
+These beliefs support dualism, the view that the mind and body are distinct from one another. 
 Plato talks about these beliefs in *Phaedo*. 
 Plato describes the relationship between the body and soul when he states, "There is the explanation that is put in the language of the mysteries, that we men are in a kind of prison, and that one must not free oneself or run away" [@PlatoPhaedoSection]. 
 This quote shows Plato's belief that the body limits the soul and prevents it from being completely free. 
 Death allows the soul to separate from the body, which supports his dualist view that the body and soul are distinct from one another.
 
-The problem with Plato's beliefs is that you need the mind in order to use the body. 
-The body relies heavily on the mind in order to do things like touch, move, and see. 
-If you do not have a mind you can not use your body. 
-That makes it seem like they can not be distinct from each other because if they rely on each other then they die together. 
-Another issue with his belief is that the mind should not be categorized the same as the body. 
-They are completely different from each other and in no way connected to one another. 
+One problem with Plato’s view is explaining how the mind and body interact with each other.
+The body and mind appear to depend on each other for actions such as touching, moving, and seeing.
+Without the mind, a person would not be able to consciously use the body.
+This dependence makes it difficult to explain how the mind and body could be completely separate. 
+Ryle raises another issue by arguing that the mind and body should not be treated as the same kind of thing. 
+Mental and physical processes belong to different categories.
 According to Gilbert Ryle, there is a private history and public history. 
-He attacks Descartes' belief specifically on that matter. 
+Ryle specifically criticizes Descartes’s account of this relationship. 
 The mind has a private history and the body has a public history. 
-He also talks about the official doctrine which is that everyone has a mind and body. 
-It can not properly explain how the mind and body truly interact with each other, so it is wrong to not fully make them distinct. 
+Ryle describes this traditional view as the ‘official doctrine.’ 
+He argues that this doctrine does not adequately explain the relationship between mental and physical processes. 
 Ryle explains the problem with treating the mind and body as two similar kinds of things when he states, "The difference between the physical and mental were thus represented as differences inside the common framework of the categories of 'thing,' 'stuff,' 'attribute,' 'state,' 'process,' 'change,' 'cause,' and 'effect.'" [@MicrosoftWordGilbert]. 
 This quote shows Ryle's criticism of treating the mind and body as two separate things that work in similar ways. 
 He argues that mental and physical processes belong to different categories, which makes it difficult to explain their relationship using traditional dualism.
@@ -63,27 +63,24 @@ Epicurus emphasizes the importance of sense perception when he states, "And besi
 This quote shows that Epicurus believes knowledge should come from our senses and observations of the physical world. 
 His focus on sense perception supports his physicalist view because he explains reality through what can be physically observed rather than through an immaterial soul.
 
-The problem with Epicurus's beliefs is that your mind can live without your body. 
-Your body is not essential for you to think and live. 
-People who can not walk just can not use their body. 
-If someone was in a coma then they can not think or function as a person at all. 
-So you need your mind in order to use your body. 
-Without your mind you can not use your body and you can not survive. 
-Another problem with his beliefs is that he thinks that God would be evil if He wants us to become anxious and afraid of death. 
-Those who believe in God would say that God wants us to live a full and happy life. 
-He does not want us to think about death, but life. 
-We need to live life the best we can in order for us to not have to feel this anxiety and fear for death.
+One problem I see with Epicurus’s view is his claim that the mind cannot exist independently of the body. 
+I believe the soul can continue to exist without the physical body.  
+The mind therefore plays an important role in how a person experiences and uses the body. 
+I also disagree with Epicurus’s discussion of fear because I believe religious views can offer a different understanding of death and the afterlife. 
+From this perspective, belief in an afterlife does not necessarily require people to fear death.
+Instead, such a belief can encourage people to focus on how they live their lives.
+Living a meaningful life may therefore reduce anxiety and fear about death.
 
-I believe the soul is distinct from the body which is more towards Plato's and Ryle's view on body and soul.<!--My claim--> 
-The body dies while the soul lives since it is separate. 
-I believe this dualist approach because I can not see us just dying and that is it. 
-I think when we die there is an afterlife that we live in for eternity. 
-The only way we can get there is through how we act on Earth.
-When we use our mind over our body we become better at being good enough for the afterlife. 
-Our mind helps us think and make decisions while our body needs things like food, water, and pleasure. 
-The body gets in the way of the soul because it makes it difficult for us to focus on things good for it. 
-Things like meditation and contemplation are difficult when the body is making us busy with bodily needs. 
-Without our body we can do that without an issue. 
+I believe the soul is distinct from the body, which places my position closer to Plato’s view of the body and soul. <!--My claim--> 
+I believe the body dies while the soul continues to exist because the two are distinct.
+I support this dualist approach because I believe a person’s existence does not necessarily end with physical death.
+I believe that the soul continues into an afterlife after physical death.
+In my view, how people live their lives on Earth influences what happens after death.
+Prioritizing the mind and soul over physical desires can help a person focus on living a meaningful life. 
+The mind allows us to think and make decisions, while the body has physical needs such as food and water.
+Physical needs can sometimes distract us from focusing on intellectual or spiritual concerns. 
+For example, meditation and contemplation can be more difficult when our attention is focused on physical needs. 
+From a dualist perspective, separating the soul from the body would remove these physical distractions.
 Therefore, I think dualism is what I believe is true.
 
 # Conclusion
