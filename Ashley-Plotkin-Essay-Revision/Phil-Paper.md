@@ -5,6 +5,7 @@ class: Phil 130
 professor: Hakkenberg
 date: 5 November 2023
 bibliography: COMP-250-Essay-Citations.json
+csl: chicago-notes-bibliography.csl
 abstract: |
   This essay examines the differences between physicalism and dualism and how each view understands death.
   It discusses Plato's views on the separation of the soul and body and considers arguments about the relationship between the mind and body.
