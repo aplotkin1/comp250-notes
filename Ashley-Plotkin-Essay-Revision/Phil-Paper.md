@@ -28,10 +28,10 @@ Your soul is very much alive, but your body is dead while in the Forms.
 He also talks about how life is an endless cycle meaning you\'re not born yet, you are born, and then you go to the Forms. 
 Your time in the first world is your sense experience, while your time in the second world would be you using thought only. 
 All of these beliefs go along with dualism which is the belief that the mind and body are separate. 
-Plato talks about these beliefs in Phaedo*.* 
-One important quote in his *Phaedo* is "There is the explanation that is put in the language of the mysteries, that we men are in a kind of prison, and that one must not free oneself or run away" [@PlatoPhaedoSection]. 
-He says this when he talks about the Forms. 
-We either choose to be free through the Forms or run away with it.
+Plato talks about these beliefs in *Phaedo*. 
+Plato describes the relationship between the body and soul when he states, "There is the explanation that is put in the language of the mysteries, that we men are in a kind of prison, and that one must not free oneself or run away" [@PlatoPhaedoSection]. 
+This quote shows Plato's belief that the body limits the soul and prevents it from being completely free. 
+Death allows the soul to separate from the body, which supports his dualist view that the body and soul are distinct from one another.
 
 The problem with Plato's beliefs is that you need the mind in order to use the body. 
 The body relies heavily on the mind in order to do things like touch, move, and see. 
@@ -44,9 +44,9 @@ He attacks Descartes' belief specifically on that matter.
 The mind has a private history and the body has a public history. 
 He also talks about the official doctrine which is that everyone has a mind and body. 
 It can not properly explain how the mind and body truly interact with each other, so it is wrong to not fully make them distinct. 
-Ryle states "The difference between the physical and mental were thus represented as differences inside the common framework of the categories of 'thing,' 'stuff,' 'attribute,' 'state,' 'process,' 'change,' 'cause,' and 'effect.'" [@MicrosoftWordGilbert]. 
-This statement proves the fact that dualism has a lot of errors. 
-There are so many differences between the mind and body because they are in separate categories.
+Ryle explains the problem with treating the mind and body as two similar kinds of things when he states, "The difference between the physical and mental were thus represented as differences inside the common framework of the categories of 'thing,' 'stuff,' 'attribute,' 'state,' 'process,' 'change,' 'cause,' and 'effect.'" [@MicrosoftWordGilbert]. 
+This quote shows Ryle's criticism of treating the mind and body as two separate things that work in similar ways. 
+He argues that mental and physical processes belong to different categories, which makes it difficult to explain their relationship using traditional dualism.
 
 Epicurus explains in his *Letter to Herodotus* that we should not worry so much about death. 
 When we die the mind and body both die because we are all scientifically just a bunch of atoms. 
@@ -57,9 +57,9 @@ The universe is just bodies and void.
 The only way we get knowledge is through observation. 
 We mentally comprehend something and transform it into an image or word. 
 His beliefs go along with physicalism which is the belief that the mind and body are not separate and that the soul is a part of the body. 
-An important quote Epicurus states is "And besides we must keep all our investigations in accord with our sensations, and in particular with the immediate apprehensions whether of the mind or of any one of the instruments of judgment, and likewise in accord with the feelings existing in us, in order that we may have indications whereby we may judge both the problem of sense-perception and the unseen" [@EpicurusLetterHerodotus]. 
-In this quote he mentions the sense perception. 
-We rely so heavily on observation through sense experience mentioned earlier.
+Epicurus emphasizes the importance of sense perception when he states, "And besides we must keep all our investigations in accord with our sensations, and in particular with the immediate apprehensions whether of the mind or of any one of the instruments of judgment, and likewise in accord with the feelings existing in us, in order that we may have indications whereby we may judge both the problem of sense-perception and the unseen" [@EpicurusLetterHerodotus]. 
+This quote shows that Epicurus believes knowledge should come from our senses and observations of the physical world. 
+His focus on sense perception supports his physicalist view because he explains reality through what can be physically observed rather than through an immaterial soul.
 
 The problem with Epicurus's beliefs is that your mind can live without your body. 
 Your body is not essential for you to think and live. 
