@@ -48,15 +48,16 @@ Ryle explains the problem with treating the mind and body as two similar kinds o
 This quote shows Ryle's criticism of treating the mind and body as two separate things that work in similar ways. 
 He argues that mental and physical processes belong to different categories, which makes it difficult to explain their relationship using traditional dualism.
 
-Epicurus explains in his *Letter to Herodotus* that we should not worry so much about death. 
-When we die the mind and body both die because we are all scientifically just a bunch of atoms. 
-He has explained how people who believe there is an afterlife have major anxiety for when they die because it makes them scared of not pleasing the higher power and of total annihilation. 
-Even our soul is just atoms that cause us to think. 
-We live in one world where everything is a sense experience. 
-The universe is just bodies and void. 
-The only way we get knowledge is through observation. 
-We mentally comprehend something and transform it into an image or word. 
-His beliefs go along with physicalism which is the belief that the mind and body are not separate and that the soul is a part of the body. 
+Epicurus explains in his *Letter to Herodotus* that people should not fear death.
+He argues that both the mind and body die because they are composed of atoms. 
+Epicurus believes that fear of an afterlife can cause people to feel anxious about death.
+People may fear punishment after death or worry about no longer existing at all. 
+Epicurus argues that even the soul is made of atoms, which allows us to think.
+According to this view, we experience the world through our senses.
+This physical view of the world describes the universe as consisting of bodies and empty space, or void.
+Epicurus argues that knowledge comes from observing the world through our senses.
+We use these observations to form thoughts and ideas about what we experience. 
+These ideas support physicalism, the view that the mind and body are not separate and that the soul is part of the physical body. 
 Epicurus emphasizes the importance of sense perception when he states, "And besides we must keep all our investigations in accord with our sensations, and in particular with the immediate apprehensions whether of the mind or of any one of the instruments of judgment, and likewise in accord with the feelings existing in us, in order that we may have indications whereby we may judge both the problem of sense-perception and the unseen" [@EpicurusLetterHerodotus]. 
 This quote shows that Epicurus believes knowledge should come from our senses and observations of the physical world. 
 His focus on sense perception supports his physicalist view because he explains reality through what can be physically observed rather than through an immaterial soul.
@@ -76,7 +77,7 @@ I believe the soul is distinct from the body which is more towards Plato's and R
 The body dies while the soul lives since it is separate. 
 I believe this dualist approach because I can not see us just dying and that is it. 
 I think when we die there is an afterlife that we live in for eternity. 
-The only way we can get there is through how we act on Earth. 
+The only way we can get there is through how we act on Earth.
 When we use our mind over our body we become better at being good enough for the afterlife. 
 Our mind helps us think and make decisions while our body needs things like food, water, and pleasure. 
 The body gets in the way of the soul because it makes it difficult for us to focus on things good for it. 
