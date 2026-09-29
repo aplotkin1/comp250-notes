@@ -21,7 +21,7 @@ I argue that the soul is distinct from the body and continues to exist after the
 # Body Paragraphs
 
 Plato believes that death is a good thing for a philosopher. 
-When the body is out of the way the soul can be free. 
+When the body is out of the way, the soul can be free. 
 Plato connects wisdom and truth with the soul rather than the physical body. 
 According to Plato, the body can distract the soul with fear and confusion.
 He believes in the Forms, an eternal realm that exists beyond the physical world [@PlatoTheoryForms]. 
@@ -40,9 +40,8 @@ Without the mind, a person would not be able to consciously use the body.
 This dependence makes it difficult to explain how the mind and body could be completely separate. 
 Ryle raises another issue by arguing that the mind and body should not be treated as the same kind of thing. 
 Mental and physical processes belong to different categories.
-According to Gilbert Ryle, there is a private history and public history. 
-Ryle specifically criticizes Descartes’s account of this relationship. 
-The mind has a private history and the body has a public history. 
+According to Gilbert Ryle, the mind has a private history while the body has a public history. 
+Ryle specifically criticizes Descartes’s account of this relationship.
 Ryle describes this traditional view as the ‘official doctrine.’ 
 He argues that this doctrine does not adequately explain the relationship between mental and physical processes. 
 Ryle explains the problem with treating the mind and body as two similar kinds of things when he states, "The difference between the physical and mental were thus represented as differences inside the common framework of the categories of 'thing,' 'stuff,' 'attribute,' 'state,' 'process,' 'change,' 'cause,' and 'effect.'" [@MicrosoftWordGilbert]. 
@@ -81,7 +80,7 @@ The mind allows us to think and make decisions, while the body has physical need
 Physical needs can sometimes distract us from focusing on intellectual or spiritual concerns. 
 For example, meditation and contemplation can be more difficult when our attention is focused on physical needs. 
 From a dualist perspective, separating the soul from the body would remove these physical distractions.
-Therefore, I think dualism is what I believe is true.
+Therefore, I believe dualism provides the most convincing explanation of the relationship between the soul and body.
 
 # Conclusion
 
