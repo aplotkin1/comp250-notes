@@ -13,9 +13,9 @@ abstract: |
 
 # Introduction
 
-Does the soul and the body perish or does just the body perish?
-If the soul and the body are both material, it is true that they perish. 
-It is incorrect to think that they die because there is an immaterial soul and material body meaning that only one would die: the body.
+The relationship between the mind, soul, and body raises questions about what happens to a person after death. <!--Context of my argument--> 
+One major problem is whether the soul dies along with the physical body or can continue to exist after the body dies. <!--Problem addressed in my argument--> 
+I argue that the soul is distinct from the body and continues to exist after the body dies.
 
 # Body Paragraphs
 
@@ -86,10 +86,10 @@ Therefore, I think dualism is what I believe is true.
 
 # Conclusion
 
-In conclusion, dualism and physicalism have different aspects of death. 
-Dualists believe there is an immaterial soul and material body, so the body dies. 
-Physicalists believe there is a material body and soul, so they both die. 
-I believe that the body only dies and that there is an after life.
+Dualism and physicalism offer different explanations of what happens to the mind, soul, and body after death.
+Physicalism holds that death ends a person's existence, while dualism allows for the soul to continue after the physical body dies.
+The arguments about the relationship between the mind and body show why the question of what happens after death is difficult to answer.
+I believe dualism provides the view that best reflects my belief that the soul is distinct from the body and continues to exist after death.
 
 # Bibliography
 
