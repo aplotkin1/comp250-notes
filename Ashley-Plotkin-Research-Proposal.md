@@ -21,6 +21,10 @@ Hackman, Sabrina, Michelle Johnson, W. Chris Taylor, Anisha Yellamraju, and Mary
 
 Illinois General Assembly. *Public Act 104-0399*. Effective January 1, 2026. https://www.ilga.gov/legislation/PublicActs/View/104-0399.
 
+Rogayan, Danilo V., Jr., and Yektie Nurprayoga LM. “Restricting AI Use Among Basic and Secondary Education Students: A Thematic Study of Policy Discourse.” *International Journal of Education Reports* (2026): 45–58. https://doi.org/10.62503/ijer.1.1.45-58.
+
 Jere, Ntabeni. “Embedding Responsible AI in Higher Education: A UTAUT–Virtue Ethics Analysis of Student Generative AI Adoption.” IEEE, 2026. https://ieeexplore.ieee.org/document/11585083.
 
 Yoo, Daeun, Michele Newman, Caroline Pitt, Kevin Huu Vo, Michelle Zhang, Michelle Kim, Katie Davis, and Jason C. Yip. “Generative AI in Children's Creative Collaboration: Impact, Perception, and Design Guidelines.” *Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems*, Article 98 (2026): 1–23. https://doi.org/10.1145/3772318.3790907.
+
+Chuan, Ong Yew, Upasana Singh, Sharifah Sumayyah Engku Alwi, Nor Surayati Usop, Roslinda Muda, and Raja Hasyifah Raja Bongsu. “Integrating AI Literacy in Programming Education: Enhancing Object-Oriented Design and Problem-Solving Skills.” *IEEE*, 2026.
