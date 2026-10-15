@@ -27,4 +27,4 @@ Jere, Ntabeni. “Embedding Responsible AI in Higher Education: A UTAUT–Virtue
 
 Yoo, Daeun, Michele Newman, Caroline Pitt, Kevin Huu Vo, Michelle Zhang, Michelle Kim, Katie Davis, and Jason C. Yip. “Generative AI in Children's Creative Collaboration: Impact, Perception, and Design Guidelines.” *Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems*, Article 98 (2026): 1–23. https://doi.org/10.1145/3772318.3790907.
 
-Chuan, Ong Yew, Upasana Singh, Sharifah Sumayyah Engku Alwi, Nor Surayati Usop, Roslinda Muda, and Raja Hasyifah Raja Bongsu. “Integrating AI Literacy in Programming Education: Enhancing Object-Oriented Design and Problem-Solving Skills.” *IEEE*, 2026.
+Ong, Yew Chuan, Upasana Singh, Sharifah Sumayyah Engku Alwi, Nor Surayati Usop, Roslinda Muda, and Raja Hasyifah Raja Bongsu. “Integrating AI Literacy in Programming Education: Enhancing Object-Oriented Design and Problem-Solving Skills.” In *2025 IEEE 14th International Conference on Engineering Education (ICEED)*, 298–303. IEEE, 2025. https://doi.org/10.1109/ICEED66794.2025.11400487.
