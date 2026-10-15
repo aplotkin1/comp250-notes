@@ -1,4 +1,4 @@
-# COMP 250 – AI & Society
+# COMP 250 – COMP 250 Notes
 
 **Ashley Plotkin**  
 **Loyola University Chicago**  
