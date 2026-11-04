@@ -13,20 +13,41 @@ So far, I have used ChatGPT to brainstorm research topics and help organize my i
 
 ## Bibliography
 
-Chanenson, Jake, Tess Eschebach, and Marshini Chetty. “Investigating ChatGPT Usage in High Schools: Student Perspectives on Policy and Practice.” *Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency* (2026): 2980–3004. https://doi.org/10.1145/3805689.3812305.
+Alfarwan, Abdullah. 2025. “Generative AI Use in K-12 Education: A Systematic Review.” *Frontiers in Education* 10: 1647573. https://doi.org/10.3389/feduc.2025.1647573.
 
-Chang, Tyler, and Afsaneh Razi. “A Systematic Literature Review of Generative AI Risks and Harms for Youth.” *Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems*, Article 54 (2026): 1–22. https://doi.org/10.1145/3772363.3798673.
+Chanenson, Jake, Tess Eschebach, and Marshini Chetty. 2026. “Investigating ChatGPT Usage in High Schools: Student Perspectives on Policy and Practice.” *Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency*, 2980–3004. https://doi.org/10.1145/3805689.3812305.
 
-Chicago Public Schools. “AI Guidance for Students.” *Chicago Public Schools*. https://www.cps.edu/sites/ai-at-cps/all-guidance/students/.
+Chang, Tyler, and Afsaneh Razi. 2026. “A Systematic Literature Review of Generative AI Risks and Harms for Youth.” *Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems*, article 54, 1–22. https://doi.org/10.1145/3772363.3798673.
 
-Hackman, Sabrina, Michelle Johnson, W. Chris Taylor, Anisha Yellamraju, and Maryam Taeb. “Privacy Concerns of AI-Based Surveillance Systems Under FERPA and Educational Privacy Laws.” *Proceedings of the 2026 ACM Southeast Conference* (2026): 183–192. https://doi.org/10.1145/3746467.3801527.
+Chen, Shuzhen, and Alan C. K. Cheung. 2025. “Effect of Generative Artificial Intelligence on University Students Learning Outcomes: A Systematic Review and Meta-Analysis.” *Educational Research Review* 49: 100737. https://doi.org/10.1016/j.edurev.2025.100737.
 
-Illinois General Assembly. *Public Act 104-0399*. Effective January 1, 2026. https://www.ilga.gov/legislation/PublicActs/View/104-0399.
+Chicago Public Schools. n.d. “AI Guidance for Students.” *Chicago Public Schools*. https://www.cps.edu/sites/ai-at-cps/all-guidance/students/.
 
-Rogayan, Danilo V., Jr., and Yektie Nurprayoga LM. “Restricting AI Use Among Basic and Secondary Education Students: A Thematic Study of Policy Discourse.” *International Journal of Education Reports* (2026): 45–58. https://doi.org/10.62503/ijer.1.1.45-58.
+Hackman, Sabrina, Michelle Johnson, W. Chris Taylor, Anisha Yellamraju, and Maryam Taeb. 2026. “Privacy Concerns of AI-Based Surveillance Systems Under FERPA and Educational Privacy Laws.” *Proceedings of the 2026 ACM Southeast Conference*, 183–192. https://doi.org/10.1145/3746467.3801527.
 
-Jere, Ntabeni. “Embedding Responsible AI in Higher Education: A UTAUT–Virtue Ethics Analysis of Student Generative AI Adoption.” IEEE, 2026. https://ieeexplore.ieee.org/document/11585083.
+Illinois General Assembly. 2025. *Public Act 104-0399*. Effective January 1, 2026. https://www.ilga.gov/legislation/PublicActs/View/104-0399.
 
-Yoo, Daeun, Michele Newman, Caroline Pitt, Kevin Huu Vo, Michelle Zhang, Michelle Kim, Katie Davis, and Jason C. Yip. “Generative AI in Children's Creative Collaboration: Impact, Perception, and Design Guidelines.” *Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems*, Article 98 (2026): 1–23. https://doi.org/10.1145/3772318.3790907.
+Jere, Ntabeni. 2026. “Embedding Responsible AI in Higher Education: A UTAUT–Virtue Ethics Analysis of Student Generative AI Adoption.” IEEE. https://ieeexplore.ieee.org/document/11585083.
 
-Ong, Yew Chuan, Upasana Singh, Sharifah Sumayyah Engku Alwi, Nor Surayati Usop, Roslinda Muda, and Raja Hasyifah Raja Bongsu. “Integrating AI Literacy in Programming Education: Enhancing Object-Oriented Design and Problem-Solving Skills.” In *2025 IEEE 14th International Conference on Engineering Education (ICEED)*, 298–303. IEEE, 2025. https://doi.org/10.1109/ICEED66794.2025.11400487.
+Lin, Xiaoling, and Hao Tan. 2025. “A Systematic Review of Generative AI in K–12: Mapping Goals, Activities, Roles, and Outcomes via the 3P Model.” *Systems* 13 (10): 840. https://doi.org/10.3390/systems13100840.
+
+Liu, Jing, Ahmad Johari Bin Sihes, and Ye Lu. 2025. “How Do Generative Artificial Intelligence (AI) Tools and Large Language Models (LLMs) Influence Language Learners’ Critical Thinking in EFL Education? A Systematic Review.” *Smart Learning Environments* 12: 48. https://doi.org/10.1186/s40561-025-00406-0.
+
+Liu, Xiaofan, and Baichang Zhong. 2024. “A Systematic Review on How Educators Teach AI in K-12 Education.” *Educational Research Review* 45: 100642. https://doi.org/10.1016/j.edurev.2024.100642.
+
+Liu, Xiaohong, Baoxin Guo, Wei He, and Xiaoyong Hu. 2025. “Effects of Generative Artificial Intelligence on K-12 and Higher Education Students’ Learning Outcomes: A Meta-Analysis.” *Journal of Educational Computing Research* 63 (5). https://doi.org/10.1177/07356331251329185.
+
+Marzano, Daniela. 2025. “Generative Artificial Intelligence (GAI) in Teaching and Learning Processes at the K-12 Level: A Systematic Review.” *Technology, Knowledge and Learning*. https://doi.org/10.1007/s10758-025-09853-7.
+
+McGrath, Cormac, Alexandra Farazouli, and Teresa Cerratto-Pargman. 2025. “Generative AI Chatbots in Higher Education: A Review of an Emerging Research Area.” *Higher Education* 89: 1533–1549. https://doi.org/10.1007/s10734-024-01288-w.
+
+Ong, Yew Chuan, Upasana Singh, Sharifah Sumayyah Engku Alwi, Nor Surayati Usop, Roslinda Muda, and Raja Hasyifah Raja Bongsu. 2025. “Integrating AI Literacy in Programming Education: Enhancing Object-Oriented Design and Problem-Solving Skills.” In *2025 IEEE 14th International Conference on Engineering Education (ICEED)*, 298–303. IEEE. https://doi.org/10.1109/ICEED66794.2025.11400487.
+
+Qian, Yufeng. 2025. “Pedagogical Applications of Generative AI in Higher Education: A Systematic Review of the Field.” *TechTrends* 69: 1105–1120. https://doi.org/10.1007/s11528-025-01100-1.
+
+Rogayan, Danilo V., Jr., and Yektie Nurprayoga LM. 2026. “Restricting AI Use Among Basic and Secondary Education Students: A Thematic Study of Policy Discourse.” *International Journal of Education Reports*, 45–58. https://doi.org/10.62503/ijer.1.1.45-58.
+
+Yoo, Daeun, Michele Newman, Caroline Pitt, Kevin Huu Vo, Michelle Zhang, Michelle Kim, Katie Davis, and Jason C. Yip. 2026. “Generative AI in Children's Creative Collaboration: Impact, Perception, and Design Guidelines.” *Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems*, article 98, 1–23. https://doi.org/10.1145/3772318.3790907.
+
+Zhang, Tianyu, Yiu Chi Lai, and Philip Leung Ho Yu. 2026. “Generative Artificial Intelligence in K-12 Education: A Systematic Review.” *Research and Practice in Technology Enhanced Learning* 21: 034. https://doi.org/10.58459/rptel.2026.21034.
+
