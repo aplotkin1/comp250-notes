@@ -79,6 +79,18 @@ Ultimately, the educational value of generative AI depends on whether it strengt
 
 # Student Privacy and Educational Guidelines
 
+In addition to protecting students' academic development, educational institutions must consider the privacy and security risks associated with generative AI. Students may not fully understand what happens to the information they enter into AI tools or how that information could be collected and used. These concerns are particularly important for younger students, who may be less aware of the consequences of sharing personal information online. Schools have a responsibility to evaluate AI tools before introducing them into educational environments.
+
+Chicago Public Schools provides an example of how educational institutions can establish guidelines for responsible AI use. Its student AI guidance permits only district-approved, age-appropriate generative AI tools that satisfy privacy and security requirements. Students must also receive permission from their teachers before using these tools for academic work [@cpsai]. This approach places responsibility on both educators and students rather than allowing students to independently determine which tools are appropriate.
+
+An important distinction in the CPS guidance is that approval based on privacy and security requirements does not guarantee that an AI tool satisfies academic expectations concerning accuracy, bias, or fairness [@cpsai]. A tool may protect students' personal information while still generating inaccurate or misleading responses. Therefore, schools must consider both the technical safety of AI tools and their educational effectiveness when deciding whether students should use them.
+
+The district also emphasizes academic integrity by requiring students to identify and disclose their use of AI-generated material. Its guidance recognizes potential educational uses, such as brainstorming, generating practice questions, and receiving feedback, while maintaining expectations for students' original work [@cpsai]. These guidelines demonstrate that schools can acknowledge the benefits of generative AI without permitting unrestricted use.
+
+Accessibility is another consideration, particularly in higher education. @mcgrath2025 [1546] raise concerns about potential inequalities among students using generative AI. Students who can afford paid subscriptions may have access to features unavailable to other students. However, educational institutions do not necessarily need to provide every student with a paid AI subscription. If a professor requires a particular AI tool for an assignment, the institution should ensure that all students have access to the necessary resources.
+
+Although the CPS guidelines establish a useful framework for responsible AI use, educational institutions should further consider how these expectations differ according to students' ages and academic development. Protecting privacy, maintaining academic integrity, and ensuring fair access are important across all educational levels, but the degree of independence students receive when using AI should reflect their educational needs.
+
 # Counterargument and Age-Appropriate AI Guidelines
 
 # Conclusion

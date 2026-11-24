@@ -128,5 +128,16 @@
     "volume": "89",
     "page": "1533-1549",
     "DOI": "10.1007/s10734-024-01288-w"
+  },
+  {
+    "id": "cpsai",
+    "type": "webpage",
+    "author": [
+      {
+        "literal": "Chicago Public Schools"
+      }
+    ],
+    "title": "AI Guidance for Students",
+    "URL": "https://www.cps.edu/sites/ai-at-cps/all-guidance/students/"
   }
 ]
