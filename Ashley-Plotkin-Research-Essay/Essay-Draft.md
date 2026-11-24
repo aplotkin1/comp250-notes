@@ -9,6 +9,8 @@ csl: chicago-author-date.csl
 
 # Abstract
 
+The increasing use of generative artificial intelligence in education raises concerns about how students can benefit from emerging technology without compromising their academic development. This essay examines how generative AI use can be regulated differently in K–8, high school, and higher education to protect student learning. Drawing on systematic literature reviews, empirical research, and existing educational guidelines, this essay evaluates the benefits and risks of generative AI, including its effects on critical thinking, independent learning, academic integrity, and student privacy. The research supports an age-appropriate approach that strongly restricts independent AI use in K–8, introduces supervised use in high school, and allows greater flexibility in higher education through responsible-use guidelines. Although generative AI can improve certain learning outcomes, its educational value depends on how students use it and whether they continue to develop independent academic skills. Establishing different expectations across educational levels can help institutions balance technological advancement with the long-term academic development of students.
+
 # To the Reader
 
 # Introduction
