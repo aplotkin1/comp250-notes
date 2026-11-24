@@ -93,6 +93,18 @@ Although the CPS guidelines establish a useful framework for responsible AI use,
 
 # Counterargument and Age-Appropriate AI Guidelines
 
+One argument against restricting generative AI in K–12 education is that students need early exposure to emerging technologies to prepare for their future academic and professional responsibilities. As AI becomes increasingly common in education and the workplace, limiting access could prevent students from developing important technological skills. Supporters of early AI integration might also argue that generative AI can provide personalized academic assistance to students who need additional support outside the classroom. These concerns are reasonable because schools have a responsibility to prepare students for a changing technological environment.
+
+However, learning about artificial intelligence does not necessarily require students to use generative AI independently. Teachers can introduce younger students to basic AI concepts, explain how the technology works, and demonstrate its limitations without allowing it to complete academic tasks for them. This approach would help students become familiar with emerging technology while continuing to develop their foundational skills. The objective of restricting AI in younger grades is not to prevent technological advancement but to ensure that students are academically prepared to use these tools responsibly.
+
+In K–8 education, independent generative AI use should be strongly restricted, particularly in elementary school. Teachers can use approved AI tools to develop educational materials and provide additional learning resources, but students should primarily complete reading, writing, and problem-solving activities independently. Middle school students could gradually participate in teacher-led demonstrations that introduce AI literacy and online safety without encouraging dependence on generated answers.
+
+In high school, students should be permitted to use generative AI for specific educational purposes under clearly communicated guidelines. Acceptable activities could include generating practice questions, receiving feedback, and exploring different explanations of difficult concepts. However, students should not use AI to complete assignments intended to assess their independent abilities unless the teacher specifically authorizes such assistance. Schools should also teach students how to verify AI-generated information and disclose their use of the technology.
+
+In higher education, universities should allow greater flexibility while maintaining academic integrity requirements. Professors should communicate acceptable AI practices according to the learning objectives of each course. Students should remain responsible for verifying information, understanding their submitted work, and acknowledging AI assistance when required. Independent assessments should also remain part of higher education to ensure that students are developing the knowledge and abilities necessary for their future careers.
+
+These recommendations provide a gradual transition from foundational learning to responsible technological independence. Instead of applying identical restrictions to every student, educational institutions can adjust their expectations as students develop greater academic maturity. Such an approach recognizes the potential benefits of generative AI without overlooking the importance of independent learning at every educational level.
+
 # Conclusion
 
 # Bibliography
