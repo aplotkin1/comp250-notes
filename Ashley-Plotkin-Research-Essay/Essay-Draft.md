@@ -13,6 +13,8 @@ The increasing use of generative artificial intelligence in education raises con
 
 # To the Reader
 
+This is a full working draft of my research essay. I have completed the introduction, main argument, supporting research, counterargument, recommended guidelines, and conclusion. Before submitting my final essay, I plan to review my citations, incorporate additional research where necessary, and improve the organization and transitions between sections. I would appreciate feedback on whether my argument is clear, whether I provide enough evidence to support the different levels of AI regulation, and whether my response to the counterargument is convincing. I would also like feedback on whether any sections are repetitive or need further explanation.
+
 # Introduction
 
 Generative artificial intelligence is becoming increasingly common in education, changing how students study, complete assignments, and understand difficult concepts. Tools such as ChatGPT can generate ideas, explanations, and offer academic assistance within seconds. Although these tools can be useful, they raise concerns about whether students are developing their own academic skills or becoming too dependent on technology. This issue is especially important because students at different educational levels have different learning needs and levels of independence. A tool that helps a college student understand a difficult concept might prevent a younger student from practicing the skills needed to solve problems independently. 
