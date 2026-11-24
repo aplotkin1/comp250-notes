@@ -21,6 +21,14 @@ Using the same AI policies across all educational levels could create problems. 
 
 # Benefits of Generative AI in Education
 
+Generative AI offers several benefits in education, particularly through personalized learning and additional academic support. Students learn at different speeds, and some may need more time or different explanations to understand certain concepts. Generative AI allows students to ask questions, receive immediate feedback, and explore difficult material at their own pace. For example, a student struggling with a mathematical concept can ask AI to provide a simpler explanation or generate similar practice problems. This can be especially helpful when a teacher or professor is not immediately available. Rather than replacing traditional classroom instruction, AI can provide an additional resource that supports students outside the classroom.
+
+Research also suggests that generative AI can positively influence students' academic performance. @chencheung2025 [10] found positive effects on university students' learning outcomes, including academic achievement and higher-order thinking skills. These findings suggest that generative AI can support more than simply completing assignments faster. When students actively engage with the material, AI can help them explore different approaches to problems and strengthen their understanding. However, these benefits depend on how students interact with the technology. Asking AI to explain a difficult concept is different from asking it to complete an entire assignment.
+
+Generative AI can also benefit teachers by helping them prepare educational materials and develop different ways to explain challenging topics. @alfarwan2025 [sec. 4.3] discusses the potential of generative AI to support teaching and learning while emphasizing the importance of teacher decision-making. Teachers can use AI to create practice questions, develop lesson plans, and provide additional learning resources. This allows younger students to benefit indirectly from AI without necessarily using the technology themselves.
+
+Despite these advantages, students' perceptions of learning do not always reflect their actual understanding. @alfarwan2025 [sec. 4.5] raises concerns about studies that rely on students' self-reported learning experiences. A student might understand an AI-generated explanation but still struggle to solve a similar problem independently. Therefore, the effectiveness of generative AI should be evaluated not only by how helpful students find it, but also by what they can accomplish without it. Recognizing this distinction is particularly important when considering whether younger students are ready to use generative AI independently.
+
 # Risks to K–8 Student Development
 
 # Responsible AI Use in High School
