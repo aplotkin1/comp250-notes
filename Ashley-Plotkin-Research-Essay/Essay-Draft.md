@@ -107,4 +107,12 @@ These recommendations provide a gradual transition from foundational learning to
 
 # Conclusion
 
+Generative AI presents both opportunities and challenges for education, making it difficult to establish a single policy that meets the needs of students at every educational level. Although research demonstrates that AI can improve certain learning outcomes, concerns about academic dependence, independent thinking, privacy, and academic integrity cannot be ignored. These concerns are particularly important when considering the differences in academic development between younger students and college students.
+
+An age-appropriate approach to AI regulation provides a balance between protecting student learning and preparing students for a future involving artificial intelligence. Stronger restrictions in K–8 education can protect the development of foundational academic skills, while supervised use in high school can help students develop responsible technology habits. In higher education, greater flexibility can allow students to benefit from AI while remaining accountable for their academic work. Across all educational levels, the primary purpose of using AI should be to support learning rather than replace it.
+
+Future research should examine the long-term effects of generative AI on students' academic development, particularly among elementary and middle school students. Additional research could also help educators determine which AI-assisted activities contribute to independent learning and which encourage dependence. As generative AI continues to develop, educational institutions will need to regularly evaluate and update their policies based on new evidence.
+
+Ultimately, the goal of education is not simply to help students complete assignments or achieve higher grades. It is to prepare them to think independently, solve problems, and apply their knowledge beyond the classroom. Generative AI should contribute to that goal rather than interfere with it.
+
 # Bibliography
