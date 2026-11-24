@@ -31,6 +31,16 @@ Despite these advantages, students' perceptions of learning do not always reflec
 
 # Risks to K–8 Student Development
 
+Elementary and middle school are important stages in students' academic development. During these years, students are learning how to read, write, communicate, think critically, and solve problems. These skills provide the foundation for more advanced learning in high school and college. Introducing generative AI too early could interfere with this development by reducing opportunities for students to practice these skills independently. For example, if an elementary school student regularly uses AI to generate written responses, the student may miss opportunities to develop vocabulary, organize ideas, and express thoughts in their own words. Although the completed assignment might meet the teacher's expectations, it may not accurately represent the student's abilities.
+
+In their systematic literature review of generative AI risks for youth, @changrazi2026 [3] explain that while generative AI could improve short-term performance, it could also "erode independent thinking," "fragment ideation," and "reduce retention." This raises concerns about the long-term effects of introducing AI during the early stages of education. Struggling with a difficult assignment is not necessarily a negative experience because it allows students to develop patience, confidence, and problem-solving skills. If students become accustomed to receiving immediate answers, they may become less willing to work through challenges on their own.
+
+Another concern is the reliability of AI-generated information. @changrazi2026 [3] found that young users often accepted AI-generated responses without verifying their accuracy and experienced difficulties identifying misinformation. Younger students may assume that an answer is correct simply because it sounds confident or is presented clearly. Before relying on AI-generated information, students need opportunities to learn how to evaluate sources, recognize inaccurate information, and question what they read.
+
+There is also limited research specifically examining generative AI use among elementary school students. @alfarwan2025 [sec. 3.1.2] identifies greater representation of middle school students than elementary school students in the existing literature. This research gap makes it difficult to determine the long-term consequences of introducing generative AI at an early age. Schools should not assume that benefits observed among older students will automatically apply to younger children.
+
+For these reasons, independent generative AI use should be strongly restricted in K–8 education, particularly at the elementary level. Younger students need sufficient opportunities to develop foundational academic skills before incorporating tools that can perform many of these tasks for them. Establishing these skills early can better prepare students to use AI responsibly as they progress into high school and higher education.
+
 # Responsible AI Use in High School
 
 # Generative AI in Higher Education
