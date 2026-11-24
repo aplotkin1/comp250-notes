@@ -43,6 +43,16 @@ For these reasons, independent generative AI use should be strongly restricted i
 
 # Responsible AI Use in High School
 
+High school represents a transition between foundational education and the greater academic independence expected in higher education. Unlike elementary school students, high school students have had more opportunities to develop their reading, writing, and problem-solving skills. However, they are still developing these abilities and preparing for the academic responsibilities of college. Introducing generative AI during high school can help students become familiar with emerging technology, but its use requires clear boundaries to prevent academic dependence.
+
+In a study involving interviews with 18 high school students, @chanenson2026 examined students' experiences with ChatGPT and school AI policies. Twelve participants were unaware of specific school rules regarding ChatGPT. Students also experienced inconsistencies in how teachers permitted and enforced AI use. An activity considered acceptable in one classroom could be considered academic dishonesty in another. Although the study involved a relatively small group of students during the early adoption of ChatGPT, its findings highlight the difficulties students face when schools fail to communicate clear expectations.
+
+The researchers also identified problems with AI detection and monitoring. Students expressed concerns about being falsely accused of using AI, while others found ways to avoid detection. Relying heavily on detection tools can shift students' attention toward avoiding punishment rather than understanding why certain uses of AI are academically inappropriate. Schools need to communicate the educational purpose behind their restrictions instead of focusing exclusively on catching students who violate them. Involving students in discussions about AI policies could also help schools develop more practical and understandable expectations.
+
+High school students should gradually develop AI literacy, including an understanding of how generative AI works, its limitations, and the importance of verifying its responses. Teachers could introduce supervised activities in which students evaluate AI-generated information, identify errors, or compare different approaches to solving a problem. However, assignments designed to assess independent writing, reasoning, and problem-solving should remain restricted from unauthorized AI assistance.
+
+Preparing students for college involves more than teaching them how to use emerging technologies. Students must also develop the ability to complete challenging academic tasks without depending on those technologies. Allowing limited and supervised AI use in high school provides an opportunity to develop responsible technology habits while protecting the academic skills students will need in higher education.
+
 # Generative AI in Higher Education
 
 # Critical Thinking and Learning Outcomes
