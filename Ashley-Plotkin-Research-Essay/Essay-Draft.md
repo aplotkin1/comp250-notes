@@ -67,6 +67,16 @@ Universities also need to establish clear expectations regarding acceptable AI u
 
 # Critical Thinking and Learning Outcomes
 
+When evaluating the effectiveness of generative AI in education, it is important to consider what students actually learn rather than focusing only on their academic performance. Receiving a higher grade does not necessarily mean that a student has developed stronger critical-thinking or problem-solving skills. Education involves learning how to analyze information, develop arguments, recognize mistakes, and apply knowledge to unfamiliar situations. These abilities are important regardless of a student's educational level.
+
+@chencheung2025 found that generative AI had a medium effect size of 0.580 on higher-order thinking among university students. However, the researchers found no statistically significant effect on metacognition, which refers to students' ability to understand and manage their own learning. This distinction is important because students need to recognize when they understand a concept and when they require additional practice. Although AI can provide explanations and feedback, students must still evaluate their own understanding and identify areas where they need improvement.
+
+The researchers also acknowledge that the benefits of generative AI for higher-order thinking may have been overestimated because many interventions were short-term and relied on self-reported data [@chencheung2025, 15]. These limitations raise questions about whether improvements observed during AI-assisted activities will continue when students no longer have access to the technology. Long-term learning requires students to retain knowledge and apply it independently, rather than relying on assistance every time they encounter a difficult problem.
+
+One way educators could address this concern is by assessing students through both AI-assisted and independent activities. For example, students could use AI to explore a topic and then complete an assessment without technological assistance. Teachers could also ask students to explain their reasoning, identify mistakes in AI-generated responses, or demonstrate how they reached a conclusion. These activities would help educators determine whether AI is contributing to students' understanding or simply improving the quality of their submitted work.
+
+Ultimately, the educational value of generative AI depends on whether it strengthens students' abilities rather than replaces them. Evaluating independent learning outcomes can help schools and universities determine which uses of AI are appropriate for students at different stages of their education.
+
 # Student Privacy and Educational Guidelines
 
 # Counterargument and Age-Appropriate AI Guidelines
