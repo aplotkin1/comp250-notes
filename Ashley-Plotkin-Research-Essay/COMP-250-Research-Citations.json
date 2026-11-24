@@ -98,5 +98,35 @@
     "container-title": "Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency",
     "page": "2980-3004",
     "DOI": "10.1145/3805689.3812305"
+  },
+  {
+    "id": "mcgrath2025",
+    "type": "article-journal",
+    "author": [
+      {
+        "family": "McGrath",
+        "given": "Cormac"
+      },
+      {
+        "family": "Farazouli",
+        "given": "Alexandra"
+      },
+      {
+        "family": "Cerratto-Pargman",
+        "given": "Teresa"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "title": "Generative AI Chatbots in Higher Education: A Review of an Emerging Research Area",
+    "container-title": "Higher Education",
+    "volume": "89",
+    "page": "1533-1549",
+    "DOI": "10.1007/s10734-024-01288-w"
   }
 ]
