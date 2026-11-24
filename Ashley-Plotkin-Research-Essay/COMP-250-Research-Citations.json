@@ -1,0 +1,40 @@
+[
+  {
+    "id": "alfarwan2025",
+    "type": "article-journal",
+    "author": [
+      {"family": "Alfarwan", "given": "Abdullah"}
+    ],
+    "issued": {"date-parts": [[2025]]},
+    "title": "Generative AI Use in K-12 Education: A Systematic Review",
+    "container-title": "Frontiers in Education",
+    "volume": "10",
+    "DOI": "10.3389/feduc.2025.1647573"
+  },
+  {
+    "id": "changrazi2026",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Chang", "given": "Tyler"},
+      {"family": "Razi", "given": "Afsaneh"}
+    ],
+    "issued": {"date-parts": [[2026]]},
+    "title": "A Systematic Literature Review of Generative AI Risks and Harms for Youth",
+    "container-title": "Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems",
+    "DOI": "10.1145/3772363.3798673"
+  },
+  {
+    "id": "chencheung2025",
+    "type": "article-journal",
+    "author": [
+      {"family": "Chen", "given": "Shuzhen"},
+      {"family": "Cheung", "given": "Alan C. K."}
+    ],
+    "issued": {"date-parts": [[2025]]},
+    "title": "Effect of Generative Artificial Intelligence on University Students Learning Outcomes: A Systematic Review and Meta-Analysis",
+    "container-title": "Educational Research Review",
+    "volume": "49",
+    "page": "100737",
+    "DOI": "10.1016/j.edurev.2025.100737"
+  }
+]
